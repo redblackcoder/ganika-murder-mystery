@@ -9,10 +9,9 @@ International License (CC BY-NC-ND 4.0).
 
 You are welcome to play, share, and provide feedback.
 
-You may not:
-- Sell the work
-- Modify the work
-- Create derivative works
-- Republish adapted versions
+Under this license, you may not:
+- Use the work commercially
+- Distribute modified versions or adaptations
+- Republish derivative works
 
-See the LICENSE file for details.
+See the [LICENSE](./LICENSE) file for details.
